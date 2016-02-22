@@ -8,7 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Jogo_4L
+namespace Jogo_4l
 {
     public partial class Form1 : Form
     {
@@ -19,7 +19,7 @@ namespace Jogo_4L
 
         private void button1_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Hello world");
+            MessageBox.Show("Hello");
         }
     }
 }

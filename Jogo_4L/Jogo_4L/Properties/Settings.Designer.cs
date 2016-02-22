@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Jogo_4L.Properties
+namespace Jogo_4l.Properties
 {
 
 

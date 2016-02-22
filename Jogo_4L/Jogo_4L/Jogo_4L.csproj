@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{BD6936CB-F93E-4F54-B65C-A352159B6988}</ProjectGuid>
+    <ProjectGuid>{58CDF5FD-982F-44F0-8B72-DC8937901165}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Jogo_4L</RootNamespace>
-    <AssemblyName>Jogo_4L</AssemblyName>
+    <RootNamespace>Jogo_4l</RootNamespace>
+    <AssemblyName>Jogo_4l</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
